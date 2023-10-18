@@ -1,0 +1,30 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}
+
+body {
+  padding: 1rem;
+}
+
+div {
+  margin: 0.5rem;
+  text-align: center;
+}
+
+div:nth-child(1) {
+  border: 3px solid #fff;
+  background-color: #057205;
+  color: #fff;
+}
+
+button {
+  background-color: #057205;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+}
+
+#images {
+  width: 50%;
+}
